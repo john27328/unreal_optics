@@ -1,0 +1,1023 @@
+﻿Log file open, 02/22/20 20:20:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: v1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.065799
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AxFImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HDRIBackdrop
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin SunPosition
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=john_48 -epicuserid=c9a285382981423081c884f920f8b0e9 -epiclocale=ru
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Engine.ini]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:2]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:1]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:2048]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.HighResScreenshotDelay:8]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:1]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Engine.ini]
+[2020.02.22-17.20.21:533][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Engine.ini]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.22-17.20.21:533][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Engine.ini]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.22-17.20.21:534][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Engine.ini]
+[2020.02.22-17.20.21:534][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Engine.ini]
+[2020.02.22-17.20.21:537][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:537][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.22-17.20.21:537][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.22-17.20.21:537][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:537][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.22-17.20.21:537][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:537][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.22-17.20.21:537][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.22-17.20.21:537][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.22-17.20.21:538][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.22-17.20.21:539][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.22-17.20.21:539][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.22-17.20.21:539][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.22-17.20.21:541][  0]LogHAL: Display: Platform has ~ 16 GB [17115774976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.22-17.20.21:541][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.22-17.20.21:541][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.22-17.20.21:541][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.22-17.20.21:542][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Config/Windows/Engine.ini]
+[2020.02.22-17.20.21:542][  0]LogInit: Computer: USER-PC
+[2020.02.22-17.20.21:542][  0]LogInit: User: Professional
+[2020.02.22-17.20.21:542][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.22-17.20.21:542][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.22-17.20.21:542][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.22-17.20.21:542][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.22-17.20.21:542][  0]LogMemory: Process Physical Memory: 107.83 MB used, 107.83 MB peak
+[2020.02.22-17.20.21:542][  0]LogMemory: Process Virtual Memory: 100.56 MB used, 100.56 MB peak
+[2020.02.22-17.20.21:542][  0]LogMemory: Physical Memory: 7824.82 MB used,  8498.05 MB free, 16322.88 MB total
+[2020.02.22-17.20.21:542][  0]LogMemory: Virtual Memory: 5126.07 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.02.22-17.20.21:544][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.22-17.20.21:556][  0]LogInit: Using OS detected language (ru-RU).
+[2020.02.22-17.20.21:556][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.02.22-17.20.21:557][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.02.22-17.20.21:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.02.22-17.20.21:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.02.22-17.20.21:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.02.22-17.20.21:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.02.22-17.20.21:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.02.22-17.20.21:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.02.22-17.20.21:558][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.02.22-17.20.21:558][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.22-17.20.21:582][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.22-17.20.21:582][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.22-17.20.21:680][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.22-17.20.21:680][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.22-17.20.21:680][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.22-17.20.21:680][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.22-17.20.21:735][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.02.22-17.20.21:735][  0]LogD3D11RHI:       8088/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.22-17.20.21:737][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.22-17.20.21:737][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.22-17.20.21:737][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.22-17.20.21:744][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.22-17.20.21:744][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.22-17.20.21:744][  0]LogWindows: EnumDisplayDevices:
+[2020.02.22-17.20.21:744][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.02.22-17.20.21:744][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.02.22-17.20.21:744][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.22-17.20.21:744][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.22-17.20.21:745][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.22-17.20.21:745][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.02.22-17.20.21:745][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.02.22-17.20.21:745][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.02.22-17.20.21:745][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.02.22-17.20.21:779][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.22-17.20.21:779][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.22-17.20.21:801][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.22-17.20.22:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.22-17.20.22:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.22-17.20.22:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.22-17.20.22:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.22-17.20.22:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.22-17.20.22:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.22-17.20.22:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.22-17.20.22:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.22-17.20.22:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.22-17.20.22:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.22-17.20.22:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.22-17.20.22:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.22-17.20.22:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.22-17.20.22:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.22-17.20.22:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.22-17.20.22:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.22-17.20.22:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.22-17.20.22:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.22-17.20.22:162][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.22-17.20.22:164][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.22-17.20.22:179][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Intermediate/Shaders/WorkingDirectory/10676/).
+[2020.02.22-17.20.22:179][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Professional/AppData/Local/Temp/UnrealShaderWorkingDir/D615686E49DFC32C393ECCBC32D39A6E/'.
+[2020.02.22-17.20.22:180][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.02.22-17.20.22:790][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.22-17.20.22:842][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Professional/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.22-17.20.22:842][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Professional/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.22-17.20.22:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Professional/Documents/src/unreal_optics/v1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.22-17.20.22:842][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.22-17.20.22:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Professional/Documents/src/unreal_optics/v1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.22-17.20.22:842][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.22-17.20.22:851][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.22-17.20.22:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.22-17.20.22:851][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.22-17.20.22:852][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Professional/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.22-17.20.22:852][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.22-17.20.22:852][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.22-17.20.22:897][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.22-17.20.22:899][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.22-17.20.22:899][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.22-17.20.22:941][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2020.02.22-17.20.23:176][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.22-17.20.23:232][  0]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2020.02.22-17.22.26:956][  0]LogMaterial: Display: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2020.02.22-17.23.06:346][  0]LogMaterial: Display: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2020.02.22-17.23.09:539][  0]LogMaterial: Display: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2020.02.22-17.23.11:550][  0]LogMaterial: Display: Missing cached shader map for material DefaultVirtualTextureMaterial, compiling. Is special engine material.
+[2020.02.22-17.25.21:125][  0]LogMaterial: Display: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2020.02.22-17.25.21:146][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.22-17.25.21:147][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.22-17.25.21:147][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.22-17.25.21:147][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.22-17.25.21:147][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.22-17.25.21:161][  0]LogNetVersion: v1 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 4223859877)
+[2020.02.22-17.25.21:190][  0]LogMaterial: Display: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2020.02.22-17.25.21:244][  0]LogMaterial: Display: Missing cached shader map for material M_ChromeBall, compiling. 
+[2020.02.22-17.25.21:281][  0]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2020.02.22-17.25.21:308][  0]LogMaterial: Display: Missing cached shader map for material BaseFlattenMaterial, compiling. 
+[2020.02.22-17.25.21:750][  0]LogMaterial: Display: Missing cached shader map for material Xray, compiling. 
+[2020.02.22-17.25.21:765][  0]LogMaterial: Display: Missing cached shader map for material Main, compiling. 
+[2020.02.22-17.25.21:852][  0]LogMaterial: Display: Missing cached shader map for material Widget3DCameraPassThrough_Opaque_OneSided, compiling. 
+[2020.02.22-17.25.21:867][  0]LogMaterial: Display: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2020.02.22-17.25.21:879][  0]LogMaterial: Display: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2020.02.22-17.25.21:893][  0]LogMaterial: Display: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2020.02.22-17.25.22:006][  0]LogMaterial: Display: Missing cached shader map for material CineMat, compiling. 
+[2020.02.22-17.25.22:039][  0]LogMaterial: Display: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2020.02.22-17.25.22:058][  0]LogMaterial: Display: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2020.02.22-17.25.22:131][  0]LogMaterial: Display: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2020.02.22-17.25.22:148][  0]LogMaterial: Display: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2020.02.22-17.25.22:216][  0]LogMaterial: Display: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2020.02.22-17.25.22:231][  0]LogMaterial: Display: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2020.02.22-17.25.22:248][  0]LogMaterial: Display: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2020.02.22-17.25.22:275][  0]LogMaterial: Display: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2020.02.22-17.25.22:357][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.063989 seconds
+[2020.02.22-17.25.22:364][  0]LogUObjectArray: 46744 objects as part of root set at end of initial load.
+[2020.02.22-17.25.22:364][  0]LogUObjectAllocator: 8134920 out of 0 bytes used by permanent object pool.
+[2020.02.22-17.25.22:364][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.22-17.25.22:476][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2020.02.22-17.25.22:486][  0]LogMaterial: Display: Missing cached shader map for material CustomDepth, compiling. 
+[2020.02.22-17.25.22:510][  0]LogMaterial: Display: Missing cached shader map for material CustomStencil, compiling. 
+[2020.02.22-17.25.22:521][  0]LogMaterial: Display: Missing cached shader map for material FinalImage, compiling. 
+[2020.02.22-17.25.22:532][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2020.02.22-17.25.22:543][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2020.02.22-17.25.22:555][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2020.02.22-17.25.22:566][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2020.02.22-17.25.22:576][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2020.02.22-17.25.22:588][  0]LogMaterial: Display: Missing cached shader map for material SceneColor, compiling. 
+[2020.02.22-17.25.22:599][  0]LogMaterial: Display: Missing cached shader map for material SceneDepth, compiling. 
+[2020.02.22-17.25.22:611][  0]LogMaterial: Display: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2020.02.22-17.25.22:622][  0]LogMaterial: Display: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2020.02.22-17.25.22:634][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2020.02.22-17.25.22:645][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2020.02.22-17.25.22:655][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2020.02.22-17.25.22:667][  0]LogMaterial: Display: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2020.02.22-17.25.22:680][  0]LogMaterial: Display: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2020.02.22-17.25.22:691][  0]LogMaterial: Display: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2020.02.22-17.25.22:704][  0]LogMaterial: Display: Missing cached shader map for material Velocity, compiling. 
+[2020.02.22-17.25.22:715][  0]LogMaterial: Display: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2020.02.22-17.25.22:725][  0]LogMaterial: Display: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2020.02.22-17.25.22:775][  0]LogPython: Using Python 2.7.14
+[2020.02.22-17.25.23:495][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.22-17.25.23:520][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.22-17.25.23:538][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2020.02.22-17.25.23:612][  0]SourceControl: Source control is disabled
+[2020.02.22-17.25.23:612][  0]SourceControl: Source control is disabled
+[2020.02.22-17.25.23:613][  0]SourceControl: Source control is disabled
+[2020.02.22-17.25.23:615][  0]SourceControl: Source control is disabled
+[2020.02.22-17.25.23:615][  0]SourceControl: Source control is disabled
+[2020.02.22-17.25.23:708][  0]LogMaterial: Display: Missing cached shader map for material M_VolumeRenderSphereTracePP, compiling. 
+[2020.02.22-17.25.25:354][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.22-17.25.25:372][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.22-17.25.25:372][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.22-17.25.25:444][  0]LogOcInput: OculusInput pre-init called
+[2020.02.22-17.25.25:449][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.22-17.25.25:449][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.22-17.25.25:463][  0]LogMaterial: Display: Missing cached shader map for material HighResScreenshot, compiling. 
+[2020.02.22-17.25.25:475][  0]LogMaterial: Display: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2020.02.22-17.25.25:488][  0]LogMaterial: Display: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2020.02.22-17.25.25:517][  0]LogEngine: Initializing Engine...
+[2020.02.22-17.25.25:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.22-17.25.25:519][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.22-17.25.25:527][  0]LogMaterial: Display: Missing cached shader map for material HairDebugMaterial, compiling. Is special engine material.
+[2020.02.22-17.25.25:649][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2020.02.22-17.25.25:875][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2020.02.22-17.25.25:992][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2020.02.22-17.25.26:228][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2020.02.22-17.25.26:464][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2020.02.22-17.25.26:578][  0]LogMaterial: Display: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2020.02.22-17.25.26:631][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2020.02.22-17.25.26:651][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2020.02.22-17.25.26:667][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2020.02.22-17.25.26:685][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2020.02.22-17.25.26:702][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2020.02.22-17.25.26:719][  0]LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2020.02.22-17.25.26:735][  0]LogMaterial: Display: Missing cached shader map for material HairDefaultMaterial, compiling. Is special engine material.
+[2020.02.22-17.25.27:024][  0]LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2020.02.22-17.25.27:038][  0]LogMaterial: Display: Missing cached shader map for material EmissiveMeshMaterial, compiling. 
+[2020.02.22-17.25.27:062][  0]LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2020.02.22-17.25.27:084][  0]LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling. 
+[2020.02.22-17.25.27:097][  0]LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2020.02.22-17.25.27:113][  0]LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling. 
+[2020.02.22-17.25.27:125][  0]LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2020.02.22-17.25.27:138][  0]LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2020.02.22-17.25.27:181][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling. 
+[2020.02.22-17.25.27:196][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2020.02.22-17.25.27:211][  0]LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2020.02.22-17.25.27:224][  0]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2020.02.22-17.25.27:282][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.22-17.25.27:289][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.22-17.25.27:310][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.22-17.25.27:310][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.22-17.25.27:310][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.22-17.25.27:310][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.22-17.25.27:310][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.22-17.25.27:310][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.22-17.25.27:310][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.22-17.25.27:310][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.22-17.25.27:310][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.22-17.25.27:310][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.22-17.25.27:335][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.22-17.25.27:362][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.02.22-17.25.27:365][  0]LogInit: FAudioDevice initialized.
+[2020.02.22-17.25.27:365][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.22-17.25.27:444][  0]LogDerivedDataCache: Saved boot cache 0.08s 93MB C:/Users/Professional/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.22-17.25.27:444][  0]LogInit: Texture streaming: Enabled
+[2020.02.22-17.25.27:457][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.22-17.25.27:457][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.22-17.25.27:462][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.22-17.25.27:471][  0]LogInit: Transaction tracking system initialized
+[2020.02.22-17.25.27:480][  0]BlueprintLog: New page: Editor Load
+[2020.02.22-17.25.27:505][  0]LocalizationService: Localization service is disabled
+[2020.02.22-17.25.27:575][  0]LogMaterial: Display: Missing cached shader map for material Cross_Mat, compiling. 
+[2020.02.22-17.25.27:590][  0]LogMaterial: Display: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2020.02.22-17.25.27:603][  0]LogMaterial: Display: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2020.02.22-17.25.27:617][  0]LogMaterial: Display: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2020.02.22-17.25.27:629][  0]LogMaterial: Display: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2020.02.22-17.25.27:641][  0]LogMaterial: Display: Missing cached shader map for material Tick_Mat, compiling. 
+[2020.02.22-17.25.27:658][  0]LogMaterial: Display: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2020.02.22-17.25.27:670][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial, compiling. 
+[2020.02.22-17.25.27:682][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2020.02.22-17.25.27:697][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2020.02.22-17.25.27:710][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2020.02.22-17.25.27:721][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2020.02.22-17.25.27:733][  0]LogMaterial: Display: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2020.02.22-17.25.27:758][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2020.02.22-17.25.27:783][  0]LogMaterial: Display: Missing cached shader map for material BlinkingCaret, compiling. 
+[2020.02.22-17.25.27:805][  0]LogMaterial: Display: Missing cached shader map for material M_StreamingPause, compiling. 
+[2020.02.22-17.25.27:826][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Professional/Documents/src/unreal_optics/v1/Content/' took 0.00s
+[2020.02.22-17.25.27:826][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.22-17.25.27:826][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.22-17.25.30:192][  0]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2020.02.22-17.25.30:227][  0]SourceControl: Source control is disabled
+[2020.02.22-17.25.30:235][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.02.22-17.25.30:241][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.02.22-17.25.30:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.02.22-17.25.30:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.02.22-17.25.30:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.02.22-17.25.30:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.02.22-17.25.30:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.02.22-17.25.30:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.02.22-17.25.30:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.02.22-17.25.30:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.02.22-17.25.30:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.02.22-17.25.30:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.02.22-17.25.30:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.02.22-17.25.30:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.02.22-17.25.30:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.02.22-17.25.30:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.02.22-17.25.30:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.02.22-17.25.30:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.02.22-17.25.30:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.02.22-17.25.30:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Fire01.uasset"
+[2020.02.22-17.25.30:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.02.22-17.25.30:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.02.22-17.25.30:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.02.22-17.25.30:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Light01.uasset"
+[2020.02.22-17.25.30:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.02.22-17.25.30:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Light02.uasset"
+[2020.02.22-17.25.30:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.02.22-17.25.30:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.02.22-17.25.30:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.02.22-17.25.30:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.02.22-17.25.30:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.02.22-17.25.30:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.02.22-17.25.30:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.02.22-17.25.30:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.02.22-17.25.30:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.02.22-17.25.30:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Steam01.uasset"
+[2020.02.22-17.25.30:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.02.22-17.25.30:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.02.22-17.25.30:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.02.22-17.25.30:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.02.22-17.25.30:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.02.22-17.25.30:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.02.22-17.25.30:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.02.22-17.25.30:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.02.22-17.25.30:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.02.22-17.25.30:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.02.22-17.25.30:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.02.22-17.25.30:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.02.22-17.25.30:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.02.22-17.25.30:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.02.22-17.25.30:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.02.22-17.25.30:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.02.22-17.25.30:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.02.22-17.25.30:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.02.22-17.25.30:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.02.22-17.25.30:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.02.22-17.25.30:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.02.22-17.25.30:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.02.22-17.25.30:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Maps/StarterMap.umap"
+[2020.02.22-17.25.30:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.02.22-17.25.30:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.02.22-17.25.30:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.02.22-17.25.30:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.02.22-17.25.30:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.02.22-17.25.30:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.02.22-17.25.30:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.02.22-17.25.30:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.02.22-17.25.30:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.02.22-17.25.30:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.02.22-17.25.30:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.02.22-17.25.30:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.02.22-17.25.30:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.02.22-17.25.30:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.02.22-17.25.30:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.02.22-17.25.30:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.02.22-17.25.30:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.02.22-17.25.30:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.02.22-17.25.30:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.02.22-17.25.30:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.02.22-17.25.30:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.02.22-17.25.30:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.02.22-17.25.30:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.02.22-17.25.30:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.02.22-17.25.30:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.02.22-17.25.30:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.02.22-17.25.30:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.02.22-17.25.30:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.02.22-17.25.30:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.02.22-17.25.30:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.02.22-17.25.30:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.02.22-17.25.30:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.02.22-17.25.30:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.02.22-17.25.30:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.02.22-17.25.30:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.02.22-17.25.30:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.02.22-17.25.30:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.02.22-17.25.30:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.02.22-17.25.30:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.02.22-17.25.30:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.02.22-17.25.30:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.02.22-17.25.30:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.02.22-17.25.30:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.02.22-17.25.30:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.02.22-17.25.30:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.02.22-17.25.30:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.02.22-17.25.30:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.02.22-17.25.30:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.02.22-17.25.30:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.02.22-17.25.30:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.02.22-17.25.30:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.02.22-17.25.30:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.02.22-17.25.30:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.02.22-17.25.30:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.02.22-17.25.30:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.02.22-17.25.30:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.02.22-17.25.30:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.02.22-17.25.30:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.02.22-17.25.30:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.02.22-17.25.30:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.02.22-17.25.30:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.02.22-17.25.30:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.02.22-17.25.30:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.02.22-17.25.30:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.02.22-17.25.30:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.02.22-17.25.30:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Door.uasset"
+[2020.02.22-17.25.30:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.02.22-17.25.30:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.02.22-17.25.30:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.02.22-17.25.30:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.02.22-17.25.30:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.02.22-17.25.30:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.02.22-17.25.30:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.02.22-17.25.30:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.02.22-17.25.30:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.02.22-17.25.30:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.02.22-17.25.30:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.02.22-17.25.30:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.02.22-17.25.30:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.02.22-17.25.30:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.02.22-17.25.30:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.02.22-17.25.30:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.02.22-17.25.30:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.02.22-17.25.30:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.02.22-17.25.30:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.02.22-17.25.30:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.02.22-17.25.30:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.02.22-17.25.30:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.02.22-17.25.30:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.02.22-17.25.30:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.02.22-17.25.30:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.02.22-17.25.30:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.02.22-17.25.30:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.02.22-17.25.30:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.02.22-17.25.30:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.02.22-17.25.30:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.02.22-17.25.30:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.02.22-17.25.30:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.02.22-17.25.30:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.02.22-17.25.30:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.02.22-17.25.30:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.02.22-17.25.30:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.02.22-17.25.30:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.02.22-17.25.30:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.02.22-17.25.30:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.02.22-17.25.30:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.02.22-17.25.30:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.02.22-17.25.31:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.02.22-17.25.31:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.02.22-17.25.31:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.02.22-17.25.31:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.02.22-17.25.31:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.02.22-17.25.31:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.02.22-17.25.31:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.02.22-17.25.31:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.02.22-17.25.31:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.02.22-17.25.31:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.02.22-17.25.31:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.02.22-17.25.31:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.02.22-17.25.31:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.02.22-17.25.31:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.02.22-17.25.31:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.02.22-17.25.31:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.02.22-17.25.31:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.02.22-17.25.31:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.02.22-17.25.31:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.02.22-17.25.31:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.02.22-17.25.31:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.02.22-17.25.31:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.02.22-17.25.31:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.02.22-17.25.31:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.02.22-17.25.31:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.02.22-17.25.31:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.02.22-17.25.31:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.02.22-17.25.31:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.02.22-17.25.31:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.02.22-17.25.31:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.02.22-17.25.31:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.02.22-17.25.31:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.02.22-17.25.31:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.02.22-17.25.31:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.02.22-17.25.32:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.02.22-17.25.32:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.02.22-17.25.32:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.02.22-17.25.32:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.02.22-17.25.32:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.02.22-17.25.32:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.02.22-17.25.32:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.02.22-17.25.32:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.02.22-17.25.32:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.02.22-17.25.32:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.02.22-17.25.32:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.02.22-17.25.32:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.02.22-17.25.32:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.02.22-17.25.32:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.02.22-17.25.32:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.02.22-17.25.32:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.02.22-17.25.32:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.02.22-17.25.32:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.02.22-17.25.32:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.02.22-17.25.32:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.02.22-17.25.32:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.02.22-17.25.32:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.02.22-17.25.32:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.02.22-17.25.32:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.02.22-17.25.32:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.02.22-17.25.32:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.02.22-17.25.32:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.02.22-17.25.32:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.02.22-17.25.33:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.02.22-17.25.33:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.02.22-17.25.33:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.02.22-17.25.33:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.02.22-17.25.33:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.02.22-17.25.33:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.02.22-17.25.33:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.02.22-17.25.33:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.02.22-17.25.33:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.02.22-17.25.33:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.02.22-17.25.33:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.02.22-17.25.33:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.02.22-17.25.33:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.02.22-17.25.33:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.02.22-17.25.33:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.02.22-17.25.33:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.02.22-17.25.33:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.02.22-17.25.33:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.02.22-17.25.33:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.02.22-17.25.33:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.02.22-17.25.33:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.02.22-17.25.33:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.02.22-17.25.33:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.02.22-17.25.33:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.02.22-17.25.33:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.02.22-17.25.33:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.02.22-17.25.33:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.02.22-17.25.33:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.02.22-17.25.33:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.02.22-17.25.33:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.02.22-17.25.33:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.02.22-17.25.33:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.02.22-17.25.33:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.02.22-17.25.34:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.02.22-17.25.34:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.02.22-17.25.34:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.02.22-17.25.34:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.02.22-17.25.34:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.02.22-17.25.34:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.02.22-17.25.34:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.02.22-17.25.34:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.02.22-17.25.34:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.02.22-17.25.34:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.02.22-17.25.34:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.02.22-17.25.34:292][  0]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2020.02.22-17.25.34:384][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.02.22-17.25.34:524][  0]LogSavePackage: Moving '../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Saved/Floor_400x4007524D19A4D09C74CFD6AAA9A01C2763C.tmp' to '../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.02.22-17.25.34:529][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.02.22-17.25.34:530][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Professional/Documents/src/unreal_optics/v1/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.22-17.25.34:531][  0]LightingResults: New page: Lighting Build
+[2020.02.22-17.25.34:532][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-17.25.34:533][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-17.25.34:533][  0]MapCheck: New page: Map Check
+[2020.02.22-17.25.34:533][  0]LightingResults: New page: Lighting Build
+[2020.02.22-17.25.34:563][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.22-17.25.34:571][  0]LogAIModule: Creating AISystem for world Main
+[2020.02.22-17.25.34:582][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.22-17.25.34:604][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.02.22-17.25.34:604][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.22-17.25.34:604][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,093ms to complete.
+[2020.02.22-17.25.34:604][  0]LogFileHelpers: Loading map 'Main' took 0.075
+[2020.02.22-17.25.34:677][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.22-17.25.34:677][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.22-17.25.34:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-17.25.34:754][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-17.25.34:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-17.25.34:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-17.25.34:769][  0]LogCollectionManager: Loaded 0 collections in 0.001249 seconds
+[2020.02.22-17.25.34:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Professional/Documents/src/unreal_optics/v1/Saved/Collections/' took 0.00s
+[2020.02.22-17.25.34:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Professional/Documents/src/unreal_optics/v1/Content/Developers/Professional/Collections/' took 0.00s
+[2020.02.22-17.25.34:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Professional/Documents/src/unreal_optics/v1/Content/Collections/' took 0.00s
+[2020.02.22-17.25.34:784][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3223 classes and 802 folders.
+[2020.02.22-17.25.34:787][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.22-17.25.34:825][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.22-17.25.34:826][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.02.22-17.25.34:910][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.22-17.25.34:911][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.22-17.25.34:918][  0]LogSlate: Took 0.001156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.22-17.25.34:960][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2020.02.22-17.25.34:972][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.22-17.25.35:037][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.22-17.25.35:322][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.22-17.25.35:322][  0]LogLoad: (Engine Initialization) Total time: 314.77 seconds
+[2020.02.22-17.25.35:322][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.22-17.25.35:362][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.02.22-17.25.35:362][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.02.22-17.25.35:390][  0]LogAssetRegistry: Asset discovery search completed in 312.4496 seconds
+[2020.02.22-17.25.35:395][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.02.22-17.25.35:458][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.22-17.25.36:058][ 62]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-17.25.36:058][ 62]Can't find target actor or component.
+[2020.02.22-17.50.14:529][435]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.22-17.50.14:529][435]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.22-17.50.14:699][435]LogEditorViewport: Clicking Background
